@@ -2,7 +2,7 @@
 
 ## Overview
 
-University assignment for machine learning, completed as part of a group project. The data is synthetic income data, and the goal is to predict new incomes given this training data. The data was obtained from [here](https://www.kaggle.com/c/tcd-ml-comp-201920-income-pred-group)(accessed 27th November 2019). Note that the training data here has been truncated by about 25% in order too fit into the repository. The final output of the programme can be found in _results.csv_.
+University assignment for machine learning, completed as part of a group project. The data is synthetic income data, and the goal is to predict new incomes given this training data. The data was obtained from [here](https://www.kaggle.com/c/tcd-ml-comp-201920-income-pred-group)(accessed 27th November 2019). Note that the training data here has been truncated by about 25% in order to fit into the repository. The final output of the programme can be found in _results.csv_.
 
 ## Basic usage
 
